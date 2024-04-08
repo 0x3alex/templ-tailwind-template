@@ -2,4 +2,6 @@
 
 Just run `go generate` to generate the tailwind css file and the templ files.
 
-Then run the executable
+Then run the executable.
+
+This template uses daisyui components
